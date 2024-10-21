@@ -1,0 +1,15 @@
+{
+  "name": "jscode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Yash L",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "acorn": "^8.13.0",
+    "acorn-walk": "^8.3.4",
+    "fs": "^0.0.1-security"
+  }
+}
